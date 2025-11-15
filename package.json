@@ -1,6 +1,6 @@
 {
   "name": "@se-oss/timeout",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "setTimeout and setInterval that work with delays longer than 24.8 days",
   "keywords": [
     "timeout",
